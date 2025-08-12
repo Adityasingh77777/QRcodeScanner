@@ -1,4 +1,4 @@
-# QR Scanner Downloader
+🐍 # QR Scanner Downloader
 
 This is a Kivy-based desktop application that scans QR codes using your webcam. If the QR code contains a URL pointing to a JSON file, the app fetches the JSON, downloads the image and video files specified in the JSON, and saves them locally.
 
